@@ -1,6 +1,7 @@
 Metode aukcije za dodjelu zadataka u više-robotskom sustavu s ograničenom komunikacijom
 
-U današnje vrijeme velika postrojenja poput tvornica, skladišta, bolnica često koriste robote koji odrađuju većinu poslova. Kako bi što bolje i efikasnije organizirali posao takva postrojenja s velikim brojem robota nerijetko koriste različite metode aukcije za podjelu zadataka među robotima. No takve metode gotovo
+U današnje vrijeme velika postrojenja poput tvornica, skladišta, bolnica često koriste robote koji odrađuju većinu poslova. Kako bi što bolje i efikasnije
+organizirali posao takva postrojenja s velikim brojem robota nerijetko koriste različite metode aukcije za podjelu zadataka među robotima. No takve metode gotovo
 uvijek nailaze na probleme u komunikaciji što dodatno otežava podjelu zadataka. Ovaj seminarski rad proučava šest takvih metoda, uspoređuje ih te analizira
 njihove rezultate dobivene simulacijom u okruženjima gdje postoji otežana komunikacija. Rad ukratko objašnjava svaku od metoda, predstavlja načine komunikacije,
 načine za poboljšanje komunikacije te na kraju zaključuje efikasnost svake od predstavljenih metoda.
