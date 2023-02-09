@@ -1,1 +1,9 @@
+Auctions for multi-robot task allocation in communication limited environments
 
+Nowadays, large plants such as factories, warehouses, hospitals often use robots that do most of the work. In order to better and more efficiently organize the
+work of such plants with a large number of robots, those plants often use different methods of auction to divide tasks among robots. But such methods almost always
+encounter problems in communication, which further complicates the division of tasks. This seminar paper studies six such methods, compares them and analyzes their
+results obtained by simulation in an environment where communication is difficult. The paper briefly explains each of the presented methods, presentsways of communication,
+ways to improve communication and finally concludes the effectiveness of each of the presented methods.
+
+Keywords: robot, multi-robot system, auction, auction method, poor communication, organization, division of labor
